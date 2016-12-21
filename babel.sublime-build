@@ -1,0 +1,5 @@
+{
+  "cmd": ["C:/Users/niepeng/AppData/Roaming/npm $file"],
+  "shell": true,
+  "selector": "*.js"
+}
